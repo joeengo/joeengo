@@ -2,7 +2,8 @@
 
 If you need to know if a message is 100% coming from me, dont be afraid to request a PGP signed message!
 
-__**PGP Information**__
+**PGP Information**
+
 Public key: https://joeengo.github.io/pub.asc
 View my latest public message here: https://joeengo.github.io/latest-signed.txt
 
